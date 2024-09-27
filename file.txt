@@ -2,4 +2,4 @@ line 1
 Line 2
 line 3
 detached head
-Added in githubcom
+Added in github.com
